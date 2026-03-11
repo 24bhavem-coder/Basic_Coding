@@ -1,3 +1,4 @@
+# Python Basics: Input, Loops, and String Operations
 name = input("Please enter your name: ")
 print("Hello, " + name + "! Welcome to the programming world!")
 print('Z' in name)

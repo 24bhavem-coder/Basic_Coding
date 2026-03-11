@@ -1,3 +1,4 @@
+# Python Data Collection (List)
 mylist = ["prashant", "sachin", "satyarth", "pratik", 77, 66.05, True, False]
 print(mylist)
 print(type(mylist))
